@@ -1,0 +1,17 @@
+@font-face  {
+  font-family: "nha";
+  src: url("./assets/NHaasGroteskTXPro-55Rg.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "nha", sans-serif ; 
+    font-weight: bold;
+
+}
+
+*::selection {
+  background: #59ead2 ;
+}
